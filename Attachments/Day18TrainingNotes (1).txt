@@ -1,0 +1,121 @@
+Good Morning!
+
+Agenda
+
+1. Lecture: Jenkins
+2. Labs: Lab 11 and Lab 12 -- use WA2893 Lab VM
+3. Review - Questions and Answers
+
+Project VM
+- delete exiting jenkins configuration
+- download jenkins and set up jenkins
+
+-----------------------------------------------------------------------
+Review
+
+1. What is Continuous Integration (CI)?
+
+version control ---> build ---> test ---> release
+
+https://cloud.google.com/solutions/continuous-integration
+
+https://aws.amazon.com/devops/continuous-integration/
+
+https://docs.microsoft.com/en-us/devops/develop/what-is-continuous-integration
+
+2. What is Continuous Delivery?
+
+CI + deployment and operations
+
+version control ---> build ---> test ---> release --> UAT --> ready to deploy? --if manual approval OK ---> deploy
+
+3. What is Continuous Deployment?
+continuous delivery but fully automated
+
+version control ---> build ---> test ---> release --> UAT ---> deploy
+
+
+4. What is Jenkins?
+
+java based CI-CD tool
+packaged as .war file
+you can run using the command
+
+java -jar jenkins.war
+		 
+5. What is a Jenkins Job?
+
+any task --- automated 
+
+6. What is a Jenkins Pipeline?
+series of jenkins tasks in a pipeline -- CI-CD
+
+7. What are the build trigger options available for a Jenkins Job?
+
+Trigger builds remotely (e.g., from scripts)
+Build after other projects are built
+Build periodically
+GitHub hook trigger for GITScm polling
+Poll SCM
+Manual Build
+
+
+8. How to configure Jenkins to use a tool, say git?
+Jenkins Manage Jenkins ---> Global Tool Configuration
+configure required tools for the project
+
+9. How to configure Jenkins to use a plugin?
+Jenkins Manage Jenkins ---> Manage Plugins
+update, install, uninstall, search
+
+10. How to write and manage jenkins pipeline scripts?
+-- pipeline script
+-- pipeline script from SCM
+use groovy code
+
+11. Job Vs Pipeline
+job -- single task, no need to write groovy script
+pipeline -- series of taaks in a sequence, need to write groovy script.
+
+
+https://www.jenkins.io/doc/book/pipeline/
+
+Pipeline examples
+
+https://github.com/jenkinsci/pipeline-examples
+
+
+Lab 11
+
+Lab 12
+
+
+-----------------------------------------------------------------------
+Project VM
+
+Set up Jenkins
+
+1. Delete the directory .jenkins in Home
+
+2. Download Jenkins (LTS) version
+
+3. Create a directory myjenkins 
+
+4. Copy the downloaded jenkins.war from downloads directory to myjenkins directory
+
+5. Run the command
+java -jar jenkins.war --httpPort=9000
+
+6. Copy the temporary password printed in the jenkins console
+
+7. Open a browser, go to
+http://localhost:9000
+
+8. Paste the generated temp password 
+
+9. Set up Jenkins
+------------------------------------------------------------------------
+
+
+
+
