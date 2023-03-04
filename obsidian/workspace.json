@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "12426638985de2fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e077f85fda0b64b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f80080f84df1cd62",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Projects/HomePage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ff4e63ee6fb4e87",
+    "type": "split",
+    "children": [
+      {
+        "id": "712d71f4cfd26bb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29241f7d866860e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "386054235b575321",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "jenkins",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29b74f9a3669c8ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "bc46ae7a85640f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f04bfb5f958a8f76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3e97a3afa6fdea0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001 Projects/HomePage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "011646a502f0a82e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001 Projects/HomePage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e84344535a6c8b2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5868da25c17abd13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2de76bfe5872c57c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 Projects/HomePage.md"
+              }
+            }
+          },
+          {
+            "id": "a3f16923206e6a39",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6fa7d6e4ad2b244",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "f80080f84df1cd62",
+  "lastOpenFiles": [
+    "obsidian",
+    "001 Projects/HomePage.md",
+    "004 Archive/Daily Notes/02 Feb/23-Feb-2023.md",
+    "003 Resources/Jenkins.md",
+    "004 Archive/Docker/Basic Commands/00_Run image_shell.md",
+    "Daily Notes/02-Mar-2023.md",
+    "Attachments/Pasted image 20230302105224.png",
+    "Attachments/Pasted image 20230302104216.png",
+    "Attachments/Pasted image 20230302094657.png",
+    "Attachments/Pasted image 20230302093644.png",
+    "Attachments/Pasted image 20230302091450.png",
+    "Attachments/Pasted image 20230302091338.png",
+    "Attachments/react-auth-data_containers_network.png",
+    "Attachments/react-auth-data_containers.png",
+    "Attachments/ProjectEnv3.png",
+    "Attachments/ProjectEnv2.png",
+    "004 Archive/Daily Notes/03 March",
+    "Daily Notes/01-Mar-2023.md",
+    "003 Resources/Docker.md",
+    "MSD/Links.md",
+    "Attachments/WA2894-705808-124.rdp",
+    "Attachments/PROJECT-705808-124.rdp",
+    "004 Archive/Daily Notes/02 Feb/28-Feb-2023.md",
+    "MSD/Schedule.md",
+    "004 Archive/Daily Notes/02 Feb/26-Feb-2023.md",
+    "004 Archive/TechX Daily Standup/27-Feb-2023.md",
+    "Daily Notes/20230226.md",
+    "Daily Notes/20230222.md",
+    "Attachments/WA3231-706241-124.rdp",
+    "004 Archive/Daily Notes/02 Feb/25-Feb-2023.md",
+    "Attachments/David Gagliano.md",
+    "004 Archive/MSD Books/LabGuide_phase2.md",
+    "004 Archive/MSD Books/MSD-phase2-book.md",
+    "004 Archive/MSD Books",
+    "004 Archive/New folder",
+    "MCC Project Data and Auth Microservice - TechX MSD.md",
+    "Attachments/000 Index.md",
+    "100 Projects MOC.md",
+    "000 Index.md",
+    "Templates/Meeting Notes.md",
+    "Daily Notes/22-Feb-2023.md",
+    "Daily Notes/21-Feb-2023.md",
+    "Meeting Notes",
+    "Daily Notes",
+    "004 Archive/TechX Daily Standup",
+    "004 Archive/Daily Notes/02 Feb",
+    "Untitled.canvas"
+  ]
+}
